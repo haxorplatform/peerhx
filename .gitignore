@@ -1,0 +1,10 @@
+*.hgignore
+*.bat
+*.json
+*.zip
+7z.exe
+Clear.bat
+Submit.bat
+PackLib.bat
+InstallLocal.bat
+
