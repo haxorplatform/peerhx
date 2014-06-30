@@ -1,5 +1,6 @@
 package;
 import haxe.Timer;
+import haxe.zip.Compress;
 import js.Browser;
 import js.Error;
 import js.html.rtc.LocalMediaStream;
@@ -86,6 +87,7 @@ class Main
 			trace("Failed to get local stream" ,err);
 		  });
 		});
+		
 		
 	}
 	
